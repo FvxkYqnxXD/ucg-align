@@ -1,3 +1,9 @@
+.body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
 .LeftAlign {
     text-align: left;
     color: red; 
