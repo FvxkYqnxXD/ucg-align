@@ -1,11 +1,14 @@
 .LeftAlign {
     text-align: left;
+    align-content: end;
 }
 
 .RightAlign {
     text-align: right;
+    align-content: start;
 }
 
 .CenterAlign {
     text-align: center;
+    align-content: center;
 }
