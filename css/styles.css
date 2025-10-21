@@ -1,5 +1,11 @@
 .LeftAlign {
-    hover-color: blue;
-    hover-align: left;
-    align-items: end;
+    text-align: left;
+}
+
+.RightAlign {
+    text-align: right;
+}
+
+.CenterAlign {
+    text-align: center;
 }
