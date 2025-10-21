@@ -1,14 +1,20 @@
 .LeftAlign {
     text-align: left;
-    align-content: end;
+    color: red; 
+    text-align: left;
+    align-self: self-end;
 }
 
 .RightAlign {
     text-align: right;
-    align-content: start;
+    color: blue;
+    text-align: right;
+    align-self: self-start;
 }
 
 .CenterAlign {
     text-align: center;
-    align-content: center;
+    color: green;
+    text-align: center;
+    align-self: center;
 }
