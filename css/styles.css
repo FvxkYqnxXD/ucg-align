@@ -5,22 +5,24 @@
 }
 
 .LeftAlign {
-    text-align: left;
-    color: red; 
-    text-align: left;
-    align-self: self-end;
+    border: 5px solid;
+    border-color: red;
+    float: left;
+    height: 25px;
+    width: 33%;
 }
-
-.RightAlign {
-    text-align: right;
-    color: blue;
-    text-align: right;
-    align-self: self-start;
-}
+ .RightAlign {
+    border: 5px solid;
+    border-color: blue;
+    float: right;
+    height: 25px;
+    width: 33%;
+}  
 
 .CenterAlign {
-    text-align: center;
-    color: green;
-    text-align: center;
-    align-self: center;
+    border: 5px solid;
+    border-color: green;
+    margin: auto;
+    height: 25px;
+    width: 33%;
 }
