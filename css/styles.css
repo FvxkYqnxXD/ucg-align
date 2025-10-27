@@ -1,7 +1,6 @@
 .body {
     background-color: aqua;
-    font-family: Arial, sans-serif;
-    margin: 20px;
+    color: white;
 }
 
 .LeftAlign {
@@ -9,14 +8,14 @@
     border-color: red;
     float: left;
     height: 25px;
-    width: 87%;
+    width: 87px;
 }
  .RightAlign {
     border: 5px solid;
     border-color: black;
     float: right;
     height: 25px;
-    width: 87%;
+    width: 87px;
 }  
 
 .CenterAlign {
@@ -24,5 +23,5 @@
     border-color: green;
     margin: auto;
     height: 25px;
-    width: 87%;
+    width: 87px;
 }
