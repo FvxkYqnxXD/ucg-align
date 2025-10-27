@@ -8,7 +8,7 @@
     border-color: red;
     float: left;
     height: 25px;
-    width: 87px;
+    width: 30px;
     box-sizing:content-box;
 }
  .RightAlign {
@@ -16,7 +16,7 @@
     border-color: black;
     float: right;
     height: 25px;
-    width: 87px;
+    width: 30px;
 }  
 
 .CenterAlign {
@@ -24,5 +24,5 @@
     border-color: green;
     margin: auto;
     height: 25px;
-    width: 87px;
+    width: 30px;
 }
