@@ -22,7 +22,6 @@ body {
     width: auto;
     height: auto;
 }
-
 .CenterAlign {
     border: 5px solid green;
     margin: 12px auto;
@@ -31,4 +30,5 @@ body {
     width: auto;
     height: auto;
     display: block;
+    clear: both;
 }
