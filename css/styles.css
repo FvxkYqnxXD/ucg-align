@@ -29,7 +29,7 @@ body {
 
 .CenterAlign {
     border: 5px solid green;
-    margin: 12px auto;
+    margin: 12px;
     box-sizing: border-box;
     width: auto;
     height: auto;
