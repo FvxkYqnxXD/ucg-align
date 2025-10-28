@@ -12,10 +12,8 @@ body {
     box-sizing: border-box;
     width: auto;
     height: auto;
-    display: flex;
+    flex: auto;
     justify-content: center;
-    align-items: center;
-    fill: red;
 }
 
 .RightAlign {
@@ -25,10 +23,8 @@ body {
     box-sizing: border-box;
     width: auto;
     height: auto;
-    display: flex;
+    flex: auto;
     justify-content: center;
-    align-items: center;
-    fill: black;
 }
 
 .CenterAlign {
@@ -37,9 +33,7 @@ body {
     box-sizing: border-box;
     width: auto;
     height: auto;
-    display: flex;
+    flex: auto;
     float: center;
     justify-content: center;
-    align-items: center;
-    fill: green;
 }
