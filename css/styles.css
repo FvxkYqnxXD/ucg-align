@@ -30,6 +30,7 @@ body {
 
 .CenterAlign {
     border: 12px solid green;
+    border-radius: 30px;
     background-color: green;
     margin: 12px auto;
     box-sizing: border-box;
