@@ -6,27 +6,35 @@ body {
 }
 
 .LeftAlign {
-    border: 5px solid red;
+    border: 12px solid red;
+    background-color: red;
     float: left;
     margin-right: 12px;
     box-sizing: border-box;
+    padding: 12px;
     width: auto;
     height: auto;
 }
 
 .RightAlign {
-    border: 5px solid black;
+    border: 12px solid black;
+    background-color: black;
+    color: white;
     float: right;
     margin-left: 12px;
     box-sizing: border-box;
+    padding: 12px;
     width: auto;
     height: auto;
 }
+
 .CenterAlign {
-    border: 5px solid green;
+    border: 12px solid green;
+    background-color: green;
     margin: 12px auto;
     box-sizing: border-box;
     max-width: 50%;
+    padding: 12px;
     width: auto;
     height: auto;
     display: block;
