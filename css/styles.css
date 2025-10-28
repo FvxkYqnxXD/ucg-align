@@ -5,36 +5,31 @@ body {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 }
 
-.LeftAlign,
-.RightAlign,
-.CenterAlign {
-    box-sizing: border-box;
-    display: flex;
-    align-items: center;   
-    justify-content: center;
-    padding: 6px 10px;     
-    height: 48px;
-    min-width: 120px;      
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
 .LeftAlign {
     border: 5px solid red;
     float: left;
     margin-right: 12px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .RightAlign {
     border: 5px solid black;
     float: right;
     margin-left: 12px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .CenterAlign {
     border: 5px solid green;
     margin: 12px auto;
     display: flex;
+    float: center;
+    justify-content: center;
+    align-items: center;
 }
