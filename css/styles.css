@@ -15,6 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    fill: red;
 }
 
 .RightAlign {
@@ -27,6 +28,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    fill: black;
 }
 
 .CenterAlign {
@@ -39,4 +41,5 @@ body {
     float: center;
     justify-content: center;
     align-items: center;
+    fill: green;
 }
