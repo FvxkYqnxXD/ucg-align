@@ -14,12 +14,6 @@ body {
     box-sizing: border-box;
 }
 
-.LeftAlign, .RightAlign, .CenterAlign {
-    padding: 12px;
-    box-sizing: border-box;
-    width: fit-content;
-}
-
 .LeftAlign {
     border: 12px solid red;
     background-color: red;
@@ -37,12 +31,5 @@ body {
 .CenterAlign {
     border: 12px solid green;
     background-color: green;
-    border-radius: 30px;
-    margin: 0 auto;
-    max-width: 50%;
-    display: block;
-    text-align: center;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    margin: 12px;
 }
