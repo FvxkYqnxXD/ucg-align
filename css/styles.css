@@ -35,6 +35,7 @@ body {
 }
 
 .CenterAlign {
+    float: center;
     border: 12px solid green;
     background-color: green;
     border-radius: 30px;
