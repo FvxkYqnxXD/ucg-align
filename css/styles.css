@@ -8,28 +8,22 @@ body {
 .box {
     float: left;
     width: 33.33%;
-    height: 280px;
     padding: 15px;
     color: white;
     box-sizing: border-box;
 }
 
 .LeftAlign {
-    border: 12px solid red;
+    border: 12px solid orange;
     background-color: red;
-    float: left;
-    margin-right: 12px;
 }
 
 .RightAlign {
-    border: 12px solid black;
+    border: 5px solid blue;
     background-color: black;
-    float: right;
-    margin-left: 12px;
 }
 
 .CenterAlign {
-    border: 12px solid green;
+    border: 5px solid red;
     background-color: green;
-    margin: 12px;
 }
